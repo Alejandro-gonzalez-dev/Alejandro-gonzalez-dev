@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hola, soy Alejandro González 👋
 
-<!--
-**Alejandro-gonzalez-dev/Alejandro-gonzalez-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Ing. en Ciberseguridad e Infraestructura Tecnológica*
 
-Here are some ideas to get you started:
+	⁠Enfocado en aprender a defender sistemas, redes e infraestructura crítica. Documentando mi camino de 0 a experto en seguridad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🎯 Objetivo
+Convertirme en *SOC Analyst / Blue Team* — especialista en detectar, analizar y responder a incidentes.
+
+#### 📚 En qué me estoy formando:
+•⁠  ⁠*Fundamentos:* Redes, Sistemas Operativos, Linux & Bash
+•⁠  ⁠*Seguridad Ofensiva:* Pentesting, Ethical Hacking, Análisis de vulnerabilidades
+•⁠  ⁠*Seguridad Defensiva:* Detección de amenazas, Respuesta a incidentes, Monitoreo
+•⁠  ⁠*Herramientas:* Kali Linux, Nmap, Burp Suite, Metasploit, Python
+•⁠  ⁠*Especialidades:* Cloud Security, Análisis Forense Digital, Criptografía
+
+#### 📫 Conectemos
+- GitHub: @Alejandro-gonzalez-dev
+- Enfoque actual: Construyendo mi laboratorio y documentando todo aquí.
